@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey visitor! This is Ashutosh ~ 👋
+- :zap: I love exploring & working on Data analytics & Data science
+- 🌱 I’m addicted to learning & growing every day
+- 📫 Connect me on Linkedin: https://www.linkedin.com/in/ashutosht/
+
+![Ashutosh Tyagi's github stats](https://github-readme-stats.vercel.app/api?username=ashu198518&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu198518)
 
 <!--
 **ashu198518/ashu198518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
